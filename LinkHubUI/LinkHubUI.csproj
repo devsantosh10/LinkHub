@@ -89,6 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="ToDoList.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -112,6 +113,16 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{c9b47b6d-2c6b-4d01-9abb-d47aed12d4f7}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BOL\BOL.csproj">
+      <Project>{47c73380-d377-43de-8dd3-923729857239}</Project>
+      <Name>BOL</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
