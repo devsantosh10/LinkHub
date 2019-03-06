@@ -1,9 +1,9 @@
 ﻿List Of Tasks
 
 1.	Create solution with all projects - Completed
-2.	Create BOL with Entity Framework - 
-3.	Add Connection string in UI - 
-4.	Create Areas in MVC - 
+2.	Create BOL with Entity Framework - Completed	
+3.	Add Connection string in UI - Complited
+4.	Create Areas in MVC - InProgress
 	a.	Common
 	b.	User
 	c.	Admin
