@@ -2,13 +2,13 @@
 
 1.	Create solution with all projects - Completed
 2.	Create BOL with Entity Framework - Completed	
-3.	Add Connection string in UI - Complited
-4.	Create Areas in MVC - InProgress
+3.	Add Connection string in UI - Completed
+4.	Create Areas in MVC - Completed
 	a.	Common
 	b.	User
 	c.	Admin
 	d.	Security
-5.	Create All Controllers in Respective Areas - 
+5.	Create All Controllers in Respective Areas - Completed
 6.	Add Default index views - 
 7.	Add Bootstrap - 
 8.	Create BrowseUrl View - 
